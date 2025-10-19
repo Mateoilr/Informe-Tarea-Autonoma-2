@@ -39,7 +39,7 @@ Para realizar esta práctica se necesita tener claros los siguientes temas:
 - Conocimiento inicial sobre virtualización y contenedores.
 - Instalación y configuración básica de Docker.
 
-<img src="Capturas/Requisitos.png" alt="Figura 1-2. Requisitos previos" width="800">
+<img src="Capturas/requisitos.png" alt="Figura 1-2. Requisitos previos" width="800">
 
 *Figura 1-2. Hyper-V activado, WSL y Docker instalado.*
 
